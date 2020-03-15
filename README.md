@@ -51,7 +51,7 @@ After that, you can create a pull request by clicking the "New pull request" but
 - [x] 154
 - [x] 155
 - [x] 156
-- [ ] 157
+- [x] 157
 - [ ] 158
 - [x] 159
 - [x] 160
